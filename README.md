@@ -12,3 +12,5 @@ personal website, more likely than not, there is some problem with that server.
 Please be patient, and email
 [issues@agentelement.net](mailto:issues@agentelement.net) if the outage
 persists for a while.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AgentElement&theme=onedark-duo)](https://git.io/streak-stats)

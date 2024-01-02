@@ -6,6 +6,8 @@
   website](https://agentelement.net) (`https` only! `http://agentelement.net`
   will not work!).
 - `vi > emacs`
+- If you are a math student or math educator, you should read
+  [this essay by Paul Lockhart](https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf)
 
 My website is self-hosted by a server under a couch. If you cannot access my
 personal website, more likely than not, there is some problem with that server.

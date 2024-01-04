@@ -17,7 +17,8 @@ persists for a while.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AgentElement&theme=onedark-duo)](https://git.io/streak-stats)
 
-PGP Key
+***
+Here's my PGP pubkey.
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

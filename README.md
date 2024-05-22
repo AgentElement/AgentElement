@@ -1,13 +1,16 @@
+Hi, welcome to my GitHub profile. Here's a few things about me:
+
 - I build Tesla Coils.
 - I spend some of my time thinking about the Subgraph Isomorphism problem.
-- My main interests are in theoretical computer science.
+- I'm generally interested in theoretical computer science.
 - I'm the president of the Linux Users Group at ASU.
 - I do not maintain an online presence outside this page and my [personal
-  website](https://agentelement.net) (`https` only! `http://agentelement.net`
-  will not work!).
-- `vi > emacs`
-- If you are a math student or math educator, you should read
-  [this essay by Paul Lockhart](https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf)
+  website](https://agentelement.net) (note: this is `https` only!
+  `http://agentelement.net` will not work - thanks, Cox!).
+- If you are a math student or math educator, I think you should read
+  [this essay by Paul Lockhart](https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf).
+  It's a fun read, and it generally reflects my opinions on math
+  education.
 
 My website is self-hosted by a server under a couch. If you cannot access my
 personal website, more likely than not, there is some problem with that server.

@@ -5,7 +5,7 @@
   (note: this is `https` only! `http://agentelement.net` will not work),
   or on [Mastodon](https://mathstodon.xyz/@AgentElement).
 - If you are a math student or math educator, I think you should read
-  [this essay by Paul Lockhart](https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf).
+  [this essay by Paul Lockhart](https://web.archive.org/web/20240401130044/https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf).
   It's a fun read, and it generally reflects my opinions on math
   education.
 

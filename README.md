@@ -1,4 +1,5 @@
 - Building tesla coils, mechanical keyboards, high-performance graph libraries.
+- Doing [funny things](https://github.com/AgentElement/functional-supercollider) with functional programming languages.
 - Writing about lambda calculus and graph theory.
 - You can follow me here, on my [personal website](https://agentelement.net)
   (note: this is `https` only! `http://agentelement.net` will not work),

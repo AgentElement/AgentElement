@@ -9,4 +9,8 @@
   It's a fun read, and it generally reflects my opinions on math
   education.
 
+[pgp pubkey](https://agentelement.net/pgp)
+
+***
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AgentElement&theme=onedark-duo)](https://git.io/streak-stats)
